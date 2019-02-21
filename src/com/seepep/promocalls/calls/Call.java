@@ -1,4 +1,4 @@
-package com.varyingdag.promocalls.calls;
+package com.seepep.promocalls.calls;
 
 import java.io.Serializable;
 

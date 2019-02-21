@@ -1,4 +1,4 @@
-package com.seepem.promocalls.calls;
+package com.seepep.promocalls.calls;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;
 

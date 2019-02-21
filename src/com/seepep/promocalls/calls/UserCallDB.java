@@ -1,4 +1,4 @@
-package com.seepem.promocalls.calls;
+package com.seepep.promocalls.calls;
 
 import java.util.ArrayList;
 import java.util.List;
